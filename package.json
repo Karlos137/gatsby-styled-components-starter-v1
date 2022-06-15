@@ -1,9 +1,13 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-styled-components-starter-v1",
+  "version": "1.0.0",
+  "description": "A starter for Next.js and styled-components",
+  "author": {
+    "name": "Karel Kvítek",
+    "email": "karel.kvitek@seznam.cz",
+    "url": "https://karelkvitek.cz"
+  },
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^4.16.0",
     "gatsby-plugin-gatsby-cloud": "^4.16.0",
