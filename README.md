@@ -34,6 +34,12 @@ gatsby build
 gatsby start
 ```
 
+### `delete cache`
+
+```
+gatsby clean
+```
+
 ## Gatsby project folder & file structure
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
